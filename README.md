@@ -1,10 +1,10 @@
 # :jp: Unique Kanji Counter
-A short python script to count the number of unique kanji in a text   
+A short python script to count the number of unique kanji in a text.   
 
 ## Purpose  
-The purpose of this script is to determine the number of unique kanji characters in a given text and provide a set containing these distinct kanji characters.  
+The purpose of this script is to determine the number of unique kanji in a given text and provide a set containing these distinct kanji.  
 
-The script does not count Hiragana, Katakana, Latin Alphabet, Arabic Numerals and punctuation marks.
+The script skips over Hiragana, Katakana, Latin alphabet, Arabic numerals and punctuation marks.
 
 ## Instructions  
 1) Copy and paste the script to your preferred python interpreter.
