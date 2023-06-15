@@ -8,8 +8,8 @@ The script does not count Hiragana, Katakana, Latin Alphabet, Arabic Numerals an
 
 ## Instructions  
 1) Copy and paste the script to your preferred python interpreter.
-2) Insert your text in between the quotation marks where it says "text".　Keep in mind that the text should be in a single line format.
+2) Insert your text in between the quotation marks where it says "text".　Keep in mind that the text should be in a single line format, which can be easily achieved at https://lingojam.com/TexttoOneLine
 3) Run the script and voila, now you know the number of unique kanji and what they are.
 
-Note: If you want to count unique Kana or any other character, simply remove them from where it says "skip".
+Note: If you want to count unique Kana or any other character as well, simply remove them from where it says "skip". Similarly, if there are characters you want to exclude from the count, just add them to the "skip" list.
 
